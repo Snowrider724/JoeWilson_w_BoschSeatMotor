@@ -13,7 +13,7 @@ import frc.robot.RobotMap;
 
 public class BoschCMD extends Command {
   public BoschCMD() {
-    // Use requires() here to declare subsystem dependencies
+    // Use requires() here to declare subsystem dependencies   
     // eg. requires(chassis);
     // 191231 the Bosch seat motor can be used!
     // "we have to tell it the specific object, the actual instance 
